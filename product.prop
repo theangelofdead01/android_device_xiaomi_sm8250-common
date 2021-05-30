@@ -8,3 +8,6 @@ debug.hwui.renderer=skiavk
 # Expensive rendering for blurs
 ro.sf.blurs_are_expensive=1
 
+# Graphics
+vendor.display.disable_rotator_downscale=1
+
